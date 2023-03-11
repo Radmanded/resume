@@ -31,9 +31,7 @@ I am a dedicated problem solver focused on digital transformation and CX (Custom
 
 ### Network Automation Consultant - Cisco DevNet - TD SYNNEX
 
-Remote 
-
-- Sep 2021 – Present
+Remote Sep 2021 – Present
 
 - Built Cisco DevNet enablement practice, certifications/specialization roadmaps, training materials, gtm, labs, and documentation
 - Developed Python API for automating Cisco/Meraki/Webex/Security/DNA-C/ACI - Over 45 use-cases
@@ -43,9 +41,7 @@ Remote
 
 ### Network Engineer - WhiteSky Communications LLC
 
-Torrance, CA 
-
-- Jan 2020 – Apr 2021
+Torrance, CA Jan 2020 – Apr 2021
 
 - Design, build, and troubleshoot 5,10,40, and 100 Gigabit fiber DWDM Wavelengths, Dark Fiber, EVPL, and other circuits from most major ISPs and transit providers
 - Managed Data Center infrastructure and campus network design for multiple data centers and multiple client networks
@@ -55,9 +51,7 @@ Torrance, CA
 
 ### Cisco Field Engineer
 
-Los Angeles, CA 
-
-- Aug 2019 – Jan 2020
+Los Angeles, CA Aug 2019 – Jan 2020
 
 - Perform hands-on hardware break-fix for LAX Airport, John Wayne Airport, and Hollywood Bowl
 - Install, repair, and maintain Cisco Wireless infrastructure, Fiber backbones from MDF to IDFs, Cisco Wireless Controller 8540, 5520, Wifi 6, Cisco 1900, 9100, 3702i/e APs, Cisco 3750, 3560-CX switches, and UPS 
@@ -66,9 +60,7 @@ Los Angeles, CA
 
 ### Network Engineer
 
-Tucson, AZ 
-
-- Jul 2018 – Jul 2019
+Tucson, AZ Jul 2018 – Jul 2019
 
 - Design network and tower infrastructure topologies, build network in staging area, configure all equipment remotely, manage technicians in deployment, document all processes
 - Manage Network with over 5000 devices via SolarWinds, SD-WAN/UNMS, AirControl, ticket system, and other troubleshooting platforms and protocols
@@ -77,9 +69,7 @@ Tucson, AZ
 
 ### Lead Cisco Field Engineer
 
-Remote, USA
-
-- Mar 2018 – Aug 2018
+Remote, USA Mar 2018 – Aug 2018
 
 - Perform job walks, inventory Cisco equipment (average 100+ switches per site), and create project plan 
 - Leading team up to 8 network techs to rack new switches and cut-over to newer Cisco switches 
@@ -89,13 +79,13 @@ Remote, USA
 
 ### Network Engineer Classes
 
-- Sep 2018 – Present
+Sep 2018 – Present
 
 - Mentored junior engineers in network engineering topics like: Networking, TCP/IP, Network Security, Routing and Switching, and Wireless Networking
 
 ### NetDevOps Workshops
 
-- Sep 2021 – Present
+Sep 2021 – Present
 
 - Conduct workshops on various topics in the DevOps community like: Automation and Networking, Version Control with Git and GitHub, Collaboration and Teamwork, API Integration with Python, CI/CD Pipeline, Yang and Netconf, Chatbots and App Integrations
 
