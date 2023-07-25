@@ -4,7 +4,7 @@
 
 ## PERSONAL STATEMENT
 
-I am a dedicated problem solver focused on digital transformation and CX (Customer Success). I have over ten years of experience in IT, and I am a strong believer in the power of open-source software, cloud, AI, and APIs. My never-quit attitude towards learning and ambition to change the world with technology is what drives me. I am committed to providing the best customer experience possible and outperforming my peers.
+I am a dedicated problem solver focused on digital transformation and CX (Customer Success). I have over ten years of experience in IT, and I am a strong believer in the power of open-source software, cloud, AI, and APIs. My never-quit attitude towards learning and ambition to change the world with technology is what drives me. I am committed to providing the best customer experience possible and bring joy to those around me.
 
 ## SKILLS
 
